@@ -291,6 +291,22 @@ textarea:focus, input:focus{
 	background-color: #F3F3F3;
 	height: 150px;
 }
+.content .kiri{	
+	/* position: absolute; */
+	/* height: 550px; */
+	width: 45%;
+	/* overflow: hidden; */
+	/*padding: 50px 100px;*/
+	/* background-color:red; */
+}
+.content .kanan{
+	float: left;
+	margin-top: -100px;
+	margin-left: 100px;
+	color: #777;
+	font-size: 20px;
+}
+
 /*
 .content .brief{
 	height: 100px;
